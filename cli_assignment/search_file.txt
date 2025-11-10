@@ -1,0 +1,4 @@
+Python is a programming language.
+JavaScript is used for web development.
+Python and JavaScript are both popular languages.
+Java is another programming language.
